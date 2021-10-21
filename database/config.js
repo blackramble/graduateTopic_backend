@@ -1,5 +1,5 @@
 // var config = {
-//     host: "tway20210917.cqycwxgazyr4.us-east-2.rds.amazonaws.com",
+//     host: "安全問題隱藏",
 //     user: "web_server",
 //     password: "tway16888",
 //     database: "tway",
@@ -7,7 +7,7 @@
 // };
 
 var config = {
-    host: "35.236.170.21",
+    host: "安全問題隱藏",
     user: "root",
     password: "root",
     database: "twaydb",
